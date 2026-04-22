@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BCVP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a19ac380009443e68d87db3e16458ab1075037")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73fd0447bc04ad67913a588c36d6c7f69f142d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BCVP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BCVP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

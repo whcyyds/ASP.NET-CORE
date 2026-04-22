@@ -1,0 +1,6 @@
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Repository\obj\Debug\net8.0\BCVP.Repository.csproj.AssemblyReference.cache
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Repository\obj\Debug\net8.0\BCVP.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Repository\obj\Debug\net8.0\BCVP.Repository.AssemblyInfoInputs.cache
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Repository\obj\Debug\net8.0\BCVP.Repository.AssemblyInfo.cs
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Repository\obj\Debug\net8.0\BCVP.Repository.csproj.CoreCompileInputs.cache
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Repository\obj\Debug\net8.0\BCVP.Repository.sourcelink.json

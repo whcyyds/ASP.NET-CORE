@@ -1,3 +1,8 @@
 <Solution>
+  <Project Path="BCVP.Common/BCVP.Common.csproj" Id="d7b79daa-d5c9-4393-bb32-b8a6149b8aae" />
+  <Project Path="BCVP.IService/BCVP.IService.csproj" Id="2de855d1-cd4e-4cca-b683-b6e2fc1113ff" />
+  <Project Path="BCVP.Model/BCVP.Model.csproj" Id="8fb5675b-559b-4f81-850f-bec0f4dc4782" />
+  <Project Path="BCVP.Repository/BCVP.Repository.csproj" Id="6fb40109-5e66-49dc-9357-1dc42b5d57ce" />
+  <Project Path="BCVP.Service/BCVP.Service.csproj" Id="b7ab8a57-e4ae-4e8a-9079-e93eae4d2bfb" />
   <Project Path="BCVP/BCVP.csproj" />
 </Solution>

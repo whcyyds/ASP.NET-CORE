@@ -1,0 +1,16 @@
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\bin\Debug\net8.0\BCVP.Model.deps.json
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\bin\Debug\net8.0\BCVP.Model.dll
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\bin\Debug\net8.0\BCVP.Model.pdb
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\bin\Debug\net8.0\BCVP.Common.dll
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\bin\Debug\net8.0\BCVP.Common.pdb
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.csproj.AssemblyReference.cache
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.AssemblyInfoInputs.cache
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.AssemblyInfo.cs
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.csproj.CoreCompileInputs.cache
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.sourcelink.json
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.csproj.Up2Date
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.dll
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\refint\BCVP.Model.dll
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\BCVP.Model.pdb
+E:\A NEW LIFE\老张的哲学8\ASP.NET-CORE\BCVP\BCVP.Model\obj\Debug\net8.0\ref\BCVP.Model.dll
